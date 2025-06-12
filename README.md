@@ -38,9 +38,9 @@ You’ll find me doing calisthenics, vibing to music, watching anime, or writing
 
 ## 📈 GitHub Stats
 
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevin-Ampong-Ocran&show_icons=true&theme=tokyonight&count_private=true)
+![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinOcran&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Ampong-Ocran&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinOcran&layout=compact&theme=tokyonight)
 
 ---
 
