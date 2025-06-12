@@ -1,4 +1,4 @@
-# Kevin-Ampong-Ocran
+# KevinOcran
 A little info
 
 # 👋🏽 Hey there, I’m Kevin
