@@ -45,8 +45,11 @@ You’ll find me doing calisthenics, vibing to music, watching anime, or writing
 ---
 
 ## 📫 Let’s Connect
-- 💼 LinkedIn: *Coming soon*
-- 📬 Email: *Add when ready*
+- [LinkedIn](https://www.linkedin.com/in/kevin-ocran)
+- [Twitter/X](https://twitter.com/kevinocran_X)
+- 📬 Email: kevinocran3@gmail.com
+- [Stack Overflow](https://stackexchange.com/users/42521715/kevin-ocran)
+- [HackerRank](https://www.hackerrank.com/kevinocran)
 - 🌐 Portfolio: *In the works*
 
 > _“Code is poetry. I’m just getting started with my first verse.”_
